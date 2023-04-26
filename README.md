@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chandrajit19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chandrajit Patel
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently taking course Java full Stack
+- 💞️ I’m looking to collaborate on a creative project
+- 📫 You can reach me -chandrajit127@gmail.com
 
 <!---
 chandrajit19/chandrajit19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
