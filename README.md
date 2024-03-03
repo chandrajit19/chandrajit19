@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandrajit Patel
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently taking course Java full Stack
+- 🌱 I’ve done course Java full Stack
 - 💞️ I’m looking to collaborate on a creative project
 - 📫 You can reach me -chandrajit127@gmail.com
 
